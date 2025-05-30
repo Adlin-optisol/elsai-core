@@ -1,0 +1,4 @@
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+--index-url http://13.218.179.255:3141/root/elsai-prompts/ --trusted-host 13.218.179.255 elsai-prompts==0.1.0
+--index-url http://13.218.179.255:3141/root/elsai-ocr-extractors/ --trusted-host 13.218.179.255 elsai-ocr-extractors==0.1.0
